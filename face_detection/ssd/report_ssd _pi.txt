@@ -1,0 +1,11 @@
+=== Summary Report ===
+Total frames processed: 74
+Average FPS: 2.287225139020786
+Total model time: 27.45881700515747 seconds
+Average model time per frame: 0.37106509466429016 seconds
+Total number of faces detected: 74
+Average number of faces per frame: 1.0
+Average image width: 640.0
+Average image height: 480.0
+Average image channels: 3.0
+Average confidence: 0.04832381382584572

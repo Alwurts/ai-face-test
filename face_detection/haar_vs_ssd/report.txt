@@ -1,0 +1,22 @@
+=== Summary Report for Haar ===
+Total frames processed: 917
+Average FPS: 26.34424188464499
+Total model time: 10.10992693901062 seconds
+Average model time per frame: 0.011025002114515398 seconds
+Total number of faces detected: 271
+Average number of faces per frame: 0.2955288985823337 faces
+Average image width: 640.0
+Average image height: 480.0
+Average image channels: 3.0
+
+=== Summary Report for SSD ===
+Total frames processed: 917
+Average FPS: 26.34424188464499
+Total model time: 14.311380386352539 seconds
+Average model time per frame: 0.015606739788825015 seconds
+Total number of faces detected: 917
+Average number of faces per frame: 1.0 faces
+Average image width: 640.0
+Average image height: 480.0
+Average image channels: 3.0
+Average confidence: 0.053181614726781845
